@@ -1,0 +1,17 @@
+{
+  "name": "cc-filter-rename",
+  "version": "0.0.1",
+  "description": "Filter and rename (strip a configurable amount of camelCase words) from an objects keys.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava tests"
+  },
+  "author": "Adam Faur",
+  "license": "MIT",
+  "engines" : {
+    "node" : ">=7.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2"
+  }
+}
