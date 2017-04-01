@@ -1,7 +1,7 @@
 {
-  "name": "cc-filter-rename",
-  "version": "0.0.1",
-  "description": "Filter and rename (strip a configurable amount of camelCase words) from an objects keys.",
+  "name": "filter-rename",
+  "version": "0.0.2",
+  "description": "Filter and rename (remove an amount of camelCase or snake_case words) from an objects keys.",
   "main": "index.js",
   "scripts": {
     "test": "ava tests"

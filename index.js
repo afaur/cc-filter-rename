@@ -1,1 +1,1 @@
-module.exports = require('./lib/CCFilterRename')
+module.exports = require('./lib/FilterRename')
